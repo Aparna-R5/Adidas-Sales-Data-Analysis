@@ -3,7 +3,7 @@
 
 The data contains the sales information of Adidas products sold by different retailers across USA . We have to find key insights from the data on areas to be improved in order to increase profit. 
 
-**2.Steps Followed**
+**Steps Followed**
 
 **1.Get data from a source**
 
