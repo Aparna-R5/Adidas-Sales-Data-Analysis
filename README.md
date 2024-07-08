@@ -5,15 +5,15 @@ The data contains the sales information of Adidas products sold by different ret
 
 **2.Steps Followed**
 
-**1.Get data from a source.
+**1.Get data from a source**
 
 In this project, the data  used was available in the form of Excel Work book. The data is loaded to PowerBI desktop using get data option and transformed.
 
-**2.Transform data
+**2.Transform data**
 
 The data contains lot of null values which would hinder in analysis process. The null vales are filtered out and data is checked for further issues proceeding to  analysis.
 
-**3.Create Dasboard
+**3.Create Dasboard**
 
  A dashboard view is created with the help of different charts to get a better of the data.
 
